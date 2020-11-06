@@ -24,6 +24,11 @@
       "id": 5,
       "name": "Petrohue Lodge",
       "imgUrl": "https://source.unsplash.com/9bdt03k4ujw"
+    },
+    {
+      "id": 6,
+      "name": "Cumbres Puerto Varas",
+      "imgUrl": "https://source.unsplash.com/_pPHgeHz1uk"
     }
   ],
   "notifications": [
